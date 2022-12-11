@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/viethoang204/viethoang204/blob/main/coding.gif)
+![MasterHead](https://github.com/viethoang204/viethoang204/blob/main/22b22287602523.5dbd29081561d.gif)
 <h1 align="center">Hi 👋, I'm Duong Viet Hoang</h1>
 <h3 align="center">A passionate Data Analyst from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/viethoang204/viethoang204/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
