@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [https://viethoang204.my.canva.site/](https://viethoang204.my.canva.site/)
 
-- 🏫 Fun fact **I am currently study IT at RMIT University**
+- 🏫 **I am currently study IT at RMIT University**
 
 <h3 align="left">🙌Connect with me🙌</h3>
 <p align="left">
