@@ -1,6 +1,7 @@
+![MasterHead](https://github.com/viethoang204/viethoang204/blob/main/d78888102686225.624f6489946d4.gif)
 <h1 align="center">Hi 👋, I'm Duong Viet Hoang</h1>
 <h3 align="center">A passionate Data Analyst from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src=“https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif”>
+<img align="right" alt="Coding" width="400" src="https://github.com/viethoang204/viethoang204/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Information Technology**
 
