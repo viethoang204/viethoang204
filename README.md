@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Data Analyst from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/viethoang204/viethoang204/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
  
-- ✊ I’m currently learning: **Data Science, Machine Learning, Information Technology**
+- ✊ I’m currently learning: **Data Science, Machine Learning, Information Technology.**
 
 - 📫 How to reach me: **duongviethoang2042002@gmail.com**
 
 - 📄 Know about my experiences: [https://viethoang204.my.canva.site/](https://viethoang204.my.canva.site/)
 
-- 🏫 **I am currently study IT at RMIT University**
+- 🏫 **I am currently study IT at RMIT University.**
 
 <h3 align="left">🙌Connect with me🙌</h3>
 <p align="left">
