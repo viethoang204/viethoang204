@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **duongviethoang2042002@gmail.com**
 
-- 📄 Know about my experiences: [https://viethoang204.my.canva.site/]()
+- 📄 Know about my experiences: [https://viethoang204.my.canva.site/](https://viethoang204.my.canva.site/)
 
 - 🏫 **I am currently study IT at RMIT University.**
 
